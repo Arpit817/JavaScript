@@ -19,3 +19,21 @@ console.log(typeof "Arpit");
 
 console.log(typeof undefined);  // undefined
 console.log(typeof null); // object
+
+
+// Primitive
+
+// 7 types of datatypes : String, number, boolean, null, undefined, symbol, BigInt
+
+
+
+// reference (non primitive)
+// array, objects, functions
+
+
+
+
+
+// **************************************************************
+
+// Stack (Primitive), Heap (non- primitive)
